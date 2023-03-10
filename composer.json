@@ -1,0 +1,16 @@
+{
+    "name": "alextir/u8200582-lab1",
+    "require": {
+        "symfony/validator": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alextir\\U8200582Lab1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fgh"
+        }
+    ]
+}
